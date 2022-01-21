@@ -12,3 +12,5 @@ To contact me, email 📫 at mavargas11@uc.cl
 #### 📈 Stats 
 
 ![Metrics](https://github.com/pachadotdev/pachadotdev/raw/main/github-metrics.svg)
+
+TODO: Test new text. I'm not sure if I made or 'maked' changed.
